@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/Menu_auth"
+        android:title="Авторизация"/>
+    <item
+        android:title="Главная страница"
+        android:id="@+id/Menu_main"/>
+
+</menu>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "486946675327",
+    "firebase_url": "https://minusnervi.firebaseio.com",
+    "project_id": "minusnervi",
+    "storage_bucket": "minusnervi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486946675327:android:440ba4b2ae314d42",
+        "android_client_info": {
+          "package_name": "com.example.minusnervi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486946675327-egousiid74j4ivmo22809la0r3sq5apm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.minusnervi",
+            "certificate_hash": "b476d5d13fb34534298a3a09dfa4767cfe4f4e8e"
+          }
+        },
+        {
+          "client_id": "486946675327-6p4ffaccdcb7p86ldk4glfv1vpafk5ir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnQQdTNkdNZtQ6mfQqHP9r4rkIRpcbN3A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "486946675327-6p4ffaccdcb7p86ldk4glfv1vpafk5ir.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
